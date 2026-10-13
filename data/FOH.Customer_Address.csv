@@ -1,0 +1,123 @@
+Membership_Number,City,Street,Postal_Code,Delivery_Instructions
+1,Mansoura,14 El Nasr St,26551,
+1,Mansoura,4 El Nasr St,71524,
+2,Alexandria,48 El Gomhoria St,43092,
+2,Mansoura,17 El Horreya Rd,74454,Ring the bell
+3,Cairo,39 El Nasr St,21164,Call on arrival
+4,Tanta,196 El Horreya Rd,89471,Call on arrival
+5,Giza,114 El Nasr St,87139,
+5,Alexandria,146 El Gomhoria St,89905,Ring the bell
+6,Cairo,68 El Galaa St,30585,Call on arrival
+7,Tanta,20 Tahrir St,10350,
+8,Tanta,121 El Nasr St,14278,Call on arrival
+8,Alexandria,181 El Nasr St,69510,Ring the bell
+9,Alexandria,161 Hassan Maamoun St,65723,Ring the bell
+10,Cairo,69 Tahrir St,19359,Ring the bell
+11,Alexandria,153 El Nasr St,67560,Ring the bell
+12,Alexandria,180 El Horreya Rd,45683,
+12,Giza,21 El Gomhoria St,66626,Leave at the door
+13,Mansoura,24 Hassan Maamoun St,98381,Ring the bell
+13,Alexandria,148 El Gomhoria St,32962,
+14,Alexandria,47 El Horreya Rd,93202,
+14,Mansoura,121 Abbas El Akkad St,63523,Leave at the door
+15,Mansoura,42 Abbas El Akkad St,63955,
+15,Alexandria,170 El Horreya Rd,82102,Ring the bell
+16,Mansoura,81 El Nasr St,52372,Ring the bell
+16,Giza,132 El Gomhoria St,96200,
+17,Mansoura,49 Abbas El Akkad St,91609,
+17,Giza,195 El Gomhoria St,36680,Leave at the door
+18,Alexandria,113 Salah Salem St,25915,Ring the bell
+19,Cairo,80 El Gomhoria St,82384,
+20,Cairo,30 Salah Salem St,25396,Call on arrival
+21,Alexandria,131 El Nasr St,64459,
+21,Giza,63 Salah Salem St,82255,Call on arrival
+22,Cairo,154 Tahrir St,19150,Leave at the door
+22,Giza,88 El Nasr St,10336,Leave at the door
+23,Tanta,149 Salah Salem St,29476,
+23,Tanta,124 Abbas El Akkad St,53573,
+24,Alexandria,49 Hassan Maamoun St,84946,
+24,Cairo,199 El Horreya Rd,15720,Leave at the door
+25,Giza,99 Tahrir St,74923,Ring the bell
+25,Cairo,129 Abbas El Akkad St,23154,
+26,Tanta,117 El Gomhoria St,28894,
+27,Mansoura,121 El Nasr St,54375,
+28,Alexandria,173 El Horreya Rd,51505,
+29,Tanta,18 Hassan Maamoun St,92727,Leave at the door
+30,Mansoura,112 El Galaa St,93066,Ring the bell
+31,Cairo,178 El Nasr St,13794,Ring the bell
+31,Alexandria,15 El Nasr St,56984,Leave at the door
+32,Cairo,63 El Horreya Rd,84177,Call on arrival
+32,Cairo,45 El Galaa St,89887,
+33,Giza,150 Tahrir St,40433,
+34,Giza,66 El Gomhoria St,70981,Leave at the door
+34,Tanta,41 El Galaa St,67898,Leave at the door
+35,Giza,177 El Nasr St,69878,Leave at the door
+35,Cairo,99 Salah Salem St,23979,Call on arrival
+36,Tanta,92 El Nasr St,48696,Ring the bell
+36,Giza,71 El Gomhoria St,84177,Ring the bell
+37,Alexandria,199 Hassan Maamoun St,89569,Leave at the door
+37,Cairo,163 Hassan Maamoun St,91381,Leave at the door
+38,Mansoura,161 El Gomhoria St,50492,
+39,Tanta,94 Tahrir St,21813,Leave at the door
+40,Giza,45 Hassan Maamoun St,27322,Leave at the door
+40,Tanta,129 El Nasr St,31567,Leave at the door
+41,Alexandria,192 Abbas El Akkad St,25095,
+41,Mansoura,37 Hassan Maamoun St,98647,
+42,Mansoura,102 El Gomhoria St,44663,Ring the bell
+42,Giza,95 El Nasr St,86619,
+43,Mansoura,173 Hassan Maamoun St,71797,Ring the bell
+43,Tanta,144 Abbas El Akkad St,89964,Call on arrival
+44,Giza,180 El Nasr St,95097,
+45,Cairo,12 El Gomhoria St,49893,
+46,Mansoura,61 Tahrir St,60940,
+47,Tanta,108 Tahrir St,64379,Ring the bell
+47,Giza,158 El Horreya Rd,46666,Ring the bell
+48,Cairo,114 Salah Salem St,40947,Leave at the door
+48,Mansoura,176 Abbas El Akkad St,81364,Leave at the door
+49,Giza,71 Hassan Maamoun St,26011,
+50,Cairo,165 El Gomhoria St,16629,Leave at the door
+51,Cairo,145 Hassan Maamoun St,18992,Call on arrival
+52,Cairo,85 Tahrir St,88116,Ring the bell
+53,Cairo,34 El Nasr St,32871,Ring the bell
+53,Mansoura,34 El Gomhoria St,56955,Call on arrival
+54,Mansoura,45 El Nasr St,16868,Call on arrival
+54,Giza,135 El Galaa St,18330,
+55,Alexandria,132 El Galaa St,69245,Call on arrival
+55,Tanta,12 El Nasr St,70036,Ring the bell
+56,Giza,103 El Horreya Rd,99928,Ring the bell
+57,Giza,19 El Galaa St,52219,Call on arrival
+57,Mansoura,33 El Nasr St,91830,Leave at the door
+58,Tanta,136 El Nasr St,69469,
+58,Mansoura,180 El Galaa St,95814,Call on arrival
+59,Giza,59 El Horreya Rd,54424,
+59,Giza,107 El Galaa St,50966,
+60,Alexandria,96 Tahrir St,72163,Ring the bell
+60,Mansoura,22 El Galaa St,66606,Ring the bell
+61,Cairo,143 El Gomhoria St,86869,Leave at the door
+61,Mansoura,106 Abbas El Akkad St,97207,
+62,Alexandria,154 El Nasr St,56090,Ring the bell
+63,Cairo,169 Salah Salem St,39392,Ring the bell
+64,Tanta,95 El Galaa St,46512,Call on arrival
+64,Giza,144 El Gomhoria St,89822,Leave at the door
+65,Cairo,70 El Nasr St,54541,Leave at the door
+66,Cairo,37 El Horreya Rd,19120,Call on arrival
+67,Mansoura,192 Hassan Maamoun St,59308,
+68,Alexandria,41 Abbas El Akkad St,50846,Leave at the door
+68,Tanta,153 El Galaa St,16895,Call on arrival
+69,Tanta,13 El Galaa St,45665,
+70,Giza,156 Salah Salem St,64287,Leave at the door
+70,Cairo,194 El Galaa St,55242,
+71,Alexandria,174 Salah Salem St,79066,Leave at the door
+72,Cairo,102 El Gomhoria St,11007,Call on arrival
+73,Cairo,197 Tahrir St,43491,Leave at the door
+73,Alexandria,31 El Gomhoria St,75193,
+74,Cairo,98 Hassan Maamoun St,75570,Leave at the door
+75,Giza,190 El Gomhoria St,67176,Ring the bell
+76,Mansoura,81 El Horreya Rd,85156,
+76,Giza,75 El Galaa St,63088,Ring the bell
+77,Cairo,159 Salah Salem St,57428,Ring the bell
+77,Giza,28 Hassan Maamoun St,67104,
+78,Giza,80 Abbas El Akkad St,39041,Leave at the door
+79,Mansoura,131 El Galaa St,79547,Call on arrival
+80,Alexandria,187 Tahrir St,40968,Ring the bell
+80,Cairo,66 Hassan Maamoun St,32740,Call on arrival

@@ -1,0 +1,9 @@
+Category_ID,Category_Name,Parent_Category_ID
+1,Main Dishes,
+2,Beverages,
+3,Desserts,
+4,Grills,1
+5,Pasta,1
+6,Hot Drinks,2
+7,Cold Drinks,2
+8,Appetizers,

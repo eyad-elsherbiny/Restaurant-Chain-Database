@@ -1,0 +1,6 @@
+Promotion_ID,Promotion_Name,Application_Scope,Discount_Type,Discount_Value,Start_Date,End_Date
+1,Summer Sale,Order,Percentage,10.0,2026-06-01,2026-08-31
+2,Weekend Offer,Order,Percentage,15.0,2026-07-01,2026-12-31
+3,Welcome Discount,Order,Fixed,30.0,2026-01-01,2026-12-31
+4,Dessert Deal,Item,Percentage,20.0,2026-09-01,2026-10-31
+5,Back To School,Order,Fixed,50.0,2026-09-01,2026-09-30

@@ -1,0 +1,6 @@
+Branch_ID,Branch_Name,Opening_Time,Closing_Time,Street,City,Postal_Code
+1,Mansoura Branch,10:00:00,02:00:00,82 El Galaa St,Mansoura,13278
+2,Cairo Branch,10:00:00,00:00:00,95 El Nasr St,Cairo,42098
+3,Alexandria Branch,10:00:00,02:00:00,29 Tahrir St,Alexandria,23434
+4,Giza Branch,10:00:00,00:00:00,87 El Galaa St,Giza,87397
+5,Tanta Branch,10:00:00,02:00:00,55 El Gomhoria St,Tanta,13905

@@ -1,0 +1,9 @@
+Allergy_ID,Allergy_Name,Category,Severity_Level
+1,Peanuts,Nuts,Severe
+2,Tree Nuts,Nuts,Severe
+3,Milk,Dairy,Medium
+4,Eggs,Eggs,Medium
+5,Gluten,Grains,High
+6,Shellfish,Seafood,Severe
+7,Fish,Seafood,High
+8,Sesame,Seeds,Medium
